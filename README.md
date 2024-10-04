@@ -55,7 +55,7 @@ To install and run the project locally:
 
     - `npm run build`
 
-    ## 🎨 Customization
+## 🎨 Customization
 
 You can customize the modal appearance by modifying the `Modalsuccess.css` file.
 
