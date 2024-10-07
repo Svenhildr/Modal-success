@@ -1,7 +1,7 @@
 {
   "name": "success-modal-hrnet",
   "private": false,
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "src/lib/Modalsuccess.jsx",
   "module": "src/lib/Modalsuccess.jsx",
   "files": [
