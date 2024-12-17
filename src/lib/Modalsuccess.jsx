@@ -1,5 +1,5 @@
 import React from "react";
-import "./Modalsuccess.css";
+import "./Modalsuccess.scss";
 
 const Modal = ({ isVisible, onClose, message }) => {
     if (!isVisible) return null;
